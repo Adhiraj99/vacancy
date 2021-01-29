@@ -17,7 +17,6 @@ import java.awt.Toolkit;
 import javax.swing.ButtonGroup;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-import java.awt.SystemColor;
 import javax.swing.JComboBox;
 import javax.swing.DefaultComboBoxModel;
 
